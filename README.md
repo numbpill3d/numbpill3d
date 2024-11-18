@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @numbpill3d
-- 👀 I’m interested in ai agents, cloning myself with ai, automation, dapps, hacking, html/css/js (oldweb style baby), and the decentralization of the web
-- 🌱 I’m currently learning how to better code in html, how to write smart contracts, and how to implement ai into my workflow to maximize output
-- 💞️ I’m looking to collaborate on art proects, args, music projects, webrings, anything to do with fringe anti-art or underground internet culture
-- 📫 How to reach me: alizkaboz@rape.lol, or lusynth@waifu.club
-- 😄 Pronouns: it/its
-- ⚡ Fun fact: reality is totally malleable and subjective! tiny stuff can teleport. 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S312TACY)
 
 [INCOMING TRANSMISSION] INTRO: HELLO WORLD
 
