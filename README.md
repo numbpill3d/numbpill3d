@@ -1,5 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@neonmaxima)
+
+[![NeonMaxima Medium](https://github-readme-medium.vercel.app/?username=neonmaxima)](https://medium.com/@neonmaxima)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S312TACY)
 
 [INCOMING TRANSMISSION] INTRO: HELLO WORLD
