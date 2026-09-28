@@ -1,52 +1,24 @@
-<div align="center">
+# xenotrek / numbpill3d
 
-![signal divider](https://github.com/user-attachments/assets/b330cfda-95ef-4994-bd55-067a29585943)
+Free hacker tooling. Full methodology + PDFs on Gumroad.
 
-# -::- splicer scorn -::-
+**Store:** https://numbpilled.gumroad.com/
 
-**artist · musician · Linux theme designer · experimental software builder**
+## Free starters — try, then upgrade
 
-i conjure and create local-first tools, strange interfaces, old-web spaces, automotive utilities, and complete linux aesthetic/creative experiences.
+- [recon-pipeline-lite](https://github.com/numbpill3d/recon-pipeline-lite) — bug bounty recon. Full: Recon Pipeline guide
+- [linux-privesc-kit](https://github.com/numbpill3d/linux-privesc-kit) — privesc triage. Full: Linux Field Manual $45
+- [esp32-ghost-node](https://github.com/numbpill3d/esp32-ghost-node) — WiFi + BLE tracker. Full: Ghost / ESP32 guides
+- [can-bus-lab-lite](https://github.com/numbpill3d/can-bus-lab-lite) — CAN bench. Full: CAN Lab $39 / Garage $55 / Theater $60
+- [personal-attack-surface-starter](https://github.com/numbpill3d/personal-attack-surface-starter) — self-OSINT. Full: Attack Surface $55 / POI $50
+- [offline-ai-terminal-lite](https://github.com/numbpill3d/offline-ai-terminal-lite) — private AI rig. Full: Blackbox $49 / Local Coder $44
+- [20-soc-lite](https://github.com/numbpill3d/20-soc-lite) — tiny SOC. Full: $20 SOC / 38% Club $35
+- [specter-box-lite](https://github.com/numbpill3d/specter-box-lite) — drop box. Full: Specter $25 / Dead Drop $39
 
-[website](https://nolove.neocities.org) · [KDE Store](https://store.kde.org/u/voidrane) · [Hidden Layer Media](https://github.com/Hidden-Layer-Media) · [Ko-fi](https://ko-fi.com/S6S312TACY) · [X](https://x.com/numbpilled)
+## Paid highlights
 
-</div>
+ESP32-S31 Linux Field Manual $45 / ESP32-C5 Field Manual $50 / STRIKE//DMA $80 / Astra Breakout $55 / Garage Hacker $55 / Blackbox $49 / SOC $20 / Self-Healing Legion $145
 
-## [ selected works ]
+All on https://numbpilled.gumroad.com/
 
-### [ tools, systems ]
-
-| project | what it is |
-| --- | --- |
-| [Vasper](https://github.com/numbpill3d/vasper) | drag-select webpage media and download selected files in bulk. |
-| [ffmpeg-ai](https://github.com/numbpill3d/ffmpeg-ai) | free, deterministic video generation CLI for Shorts, TikTok, and landscape video. |
-| [can-playground](https://github.com/numbpill3d/can-playground) | local-first CAN bus viewer with DBC import and live SocketCAN capture. |
-| [spi_flash_auto_unlocker](https://github.com/numbpill3d/spi_flash_auto_unlocker) | firmware analysis utility for SPI flash dumps and password-region research. |
-| [KDE Splash Creator](https://github.com/numbpill3d/KDE-SPLASH-CREATOR) | native tool for building KDE Plasma splash screens. |
-
-### [ interfaces, themes, and digital artifacts ]
-
-| project | what it is |
-| --- | --- |
-| [DSi Clearware / White Rice](https://github.com/numbpill3d/DSi-clearware-white-rice-Desktop-Theme-Plasma-KDE) | coordinated Nintendo DSi-inspired KDE Plasma desktop suite. |
-| [ASCII Cybersigilist SDDM](https://github.com/numbpill3d/ascii-cybersigilist-sddm) | black-and-red animated terminal login theme. |
-| [2133 Blinkie Button Forge](https://github.com/numbpill3d/2133-blinkie-button-forge) |generator for blinkies, 88×31 buttons, and pixel badges. |
-| [plaintext-archive](https://github.com/numbpill3d/plaintext-archive) | dependency-free plaintext and BBS-inspired web experiments. |
-| [public-access-channel](https://github.com/numbpill3d/public-access-channel) | a tiny, numbered-channel broadcasting network for short HTML pieces. |
-| [GRIMWALKER-ESP32](https://github.com/numbpill3d/GRIMWALKER-ESP32) | ESP32 digital pet that reacts to nearby wireless activity. |
-
-### [ Hidden Layer Media ]
-
-collaborative and puniverse-scale creative and digital expressive existential experiments live at [Hidden-Layer-Media](https://github.com/Hidden-Layer-Media), including [urbindex](https://github.com/Hidden-Layer-Media/urbindex) and [RESONATOR_ENTROPY](https://github.com/Hidden-Layer-Media/RESONATOR_ENTROPY).
-
-## [ repository map ]
-
-use these topic families to navigate the catalog as metadata is standardized:
-
-`kde-plasma` · `plasma-theme` · `sddm-theme` · `old-web` · `ai-tools` · `automotive-security` · `browser-extension`
-
-older experiments remain part of the archive, but the projects above are the best starting point.
-
----
-
-> more machine than human // raised online // perpetually learning
+Assumes you know what a terminal is. Doesn't assume anything else.
