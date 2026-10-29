@@ -48,15 +48,15 @@ I ID AS ALTERHUMAN/NONHUMAN.
 
 ## [MY MAIN SITES:]
 
-- HIDDENLAYERMEDIA.NEOCITIES.ORG
-- NEONMAXIMA.BIGCARTEL.COM
-- DEEPWEBCLIPART.COMPANY.SITE
-- AKROMINON.COM
-- SYCHURN.MMM.PAGE
-- INSTAGRAM.COM/NEONMAXIMA
-- X.COM/DEADGIRLWWS
-- DEVIANTART.COM/IZKABOZ
-- NOLOVE.NEOCITIES.ORG
+- [HIDDENLAYERMEDIA.NEOCITIES.ORG](https://hiddenlayermedia.neocities.org/)
+- [NEONMAXIMA.BIGCARTEL.COM](https://neonmaxima.bigcartel.com/)
+- [DEEPWEBCLIPART.COMPANY.SITE](https://deepwebclipart.company.site/)
+- [AKROMINON.COM](https://akrominon.com/)
+- [SYCHURN.MMM.PAGE](https://sychurn.mmm.page/)
+- [INSTAGRAM.COM/NEONMAXIMA](https://www.instagram.com/neonmaxima/)
+- [X.COM/DEADGIRLWWS](https://x.com/deadgirlwws)
+- [DEVIANTART.COM/IZKABOZ](https://www.deviantart.com/izkaboz)
+- [NOLOVE.NEOCITIES.ORG](https://nolove.neocities.org/)
 
 -THERE ARE MORE. I MAY LIST THEM ONE DAY.
 
