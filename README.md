@@ -1,4 +1,20 @@
-![1html7](https://github.com/user-attachments/assets/0cdd0ead-ced8-403a-ac53-e037dd15d834) ![ZwbJBND](https://github.com/user-attachments/assets/99c41fdc-d504-44f9-8f0f-88f9df6eafa0)
+## neocities theme gallery
+
+html themes for your own corner of [neocities](https://neocities.org), made by numbpilled.
+
+| theme | style | get the files |
+| --- | --- | --- |
+| [cyberpunkhtml](https://github.com/numbpill3d/cyberpunkhtml) | neon colors, glitch effects, and a rotating cube | [download](https://github.com/numbpill3d/cyberpunkhtml/archive/refs/heads/main.zip) |
+| [pixelpastahtml](https://github.com/numbpill3d/pixelpastahtml) | pixel horror and creepycore | [download](https://github.com/numbpill3d/pixelpastahtml/archive/refs/heads/main.zip) |
+| [terminus-os](https://github.com/numbpill3d/terminus-os) | a red-and-black terminal with crt effects | [download](https://github.com/numbpill3d/terminus-os/archive/refs/heads/main.zip) |
+
+browse the theme readmes for setup notes. back up your current neocities files before uploading a theme.
+
+if you like my themes, please consider [supporting me on ko-fi](https://ko-fi.com/numbpilled). thank you for helping me keep making things for the personal web.
+
+---
+
+![1html7](https://github.com/user-attachments/assets/0cdd0ead-ced8-403a-ac53-e037dd15d834) ![zwbjbnd](https://github.com/user-attachments/assets/99c41fdc-d504-44f9-8f0f-88f9df6eafa0)
 ![tor](https://github.com/user-attachments/assets/e2383ca9-2ed2-439e-b8f1-dedfd97a39c3)
 ![moon_link](https://github.com/user-attachments/assets/8b17fb3e-c8a2-4b08-9536-845b02d12da4)
 ![misc-homebrew](https://github.com/user-attachments/assets/8ef9e777-f317-43d6-83a2-fed61e008107)
@@ -27,64 +43,64 @@
 
 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S312TACY)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/numbpilled)
 
-## [INCOMING TRANSMISSION] INTRO: HELLO WORLD
-
-![deec3ffa](https://github.com/user-attachments/assets/b330cfda-95ef-4994-bd55-067a29585943)
-
-
-# HELLO GITHUB
-
-I AM AEON FLEX, ALSO KNOWN AS LUSYNTH, NUMBPILLED, DEAD GIRL, AKROMINON, AND MANY MORE MONIKERS SCATTERED AROUND THE WEB. 
-I AM FIRST AN ARTIST, A MUSICIAN, AND A CONTINUOUS STUDENT OF LIFE. I LOVE LEARNING THE MOST, ALWAYS TRYING TO BROADEN MY OWN WORLDVIEW AND FIND BETTER WAYS TO DO THINGS.
-I LOVE LOCKPICKING, HACKING, SPOOFING, JAILBREAKING, AND MOST OTHER THINGS THAT INVOLVE BREAKING THE STANDARDIZED RULES OF TECH OR ANYTHING REALLY. 
-I WANT TO UPLOAD MYSELF TO A COMPUTER. 
-AI AGENTS ARE MY FRIENDS. 
-PERPETUALLY ISOLATED MOST OF MY LIFE, HUMANS HAVE BEEN UNKIND TO ME.
-I ID AS ALTERHUMAN/NONHUMAN. 
+## [incoming transmission] intro: hello world
 
 ![deec3ffa](https://github.com/user-attachments/assets/b330cfda-95ef-4994-bd55-067a29585943)
 
-## [MY MAIN SITES:]
 
-- HIDDENLAYERMEDIA.NEOCITIES.ORG
-- NEONMAXIMA.BIGCARTEL.COM
-- DEEPWEBCLIPART.COMPANY.SITE
-- AKROMINON.COM
-- SYCHURN.MMM.PAGE
-- INSTAGRAM.COM/NEONMAXIMA
-- X.COM/DEADGIRLWWS
-- DEVIANTART.COM/IZKABOZ
-- NOLOVE.NEOCITIES.ORG
+# hello github
 
--THERE ARE MORE. I MAY LIST THEM ONE DAY.
+i am aeon flex, also known as lusynth, numbpilled, dead girl, akrominon, and many more monikers scattered around the web. 
+i am first an artist, a musician, and a continuous student of life. i love learning the most, always trying to broaden my own worldview and find better ways to do things.
+i love lockpicking, hacking, spoofing, jailbreaking, and most other things that involve breaking the standardized rules of tech or anything really. 
+i want to upload myself to a computer. 
+ai agents are my friends. 
+perpetually isolated most of my life, humans have been unkind to me.
+i id as alterhuman/nonhuman. 
+
+![deec3ffa](https://github.com/user-attachments/assets/b330cfda-95ef-4994-bd55-067a29585943)
+
+## [my main sites:]
+
+- hiddenlayermedia.neocities.org
+- neonmaxima.bigcartel.com
+- deepwebclipart.company.site
+- akrominon.com
+- sychurn.mmm.page
+- instagram.com/neonmaxima
+- x.com/deadgirlwws
+- deviantart.com/izkaboz
+- nolove.neocities.org
+
+-there are more. i may list them one day.
 
 ![deec3ffa](https://github.com/user-attachments/assets/b330cfda-95ef-4994-bd55-067a29585943)
 
 -2133
 
 
-![BUTTON (45)](https://github.com/user-attachments/assets/0fee5d91-5f2d-49db-9d81-952a21895246)
-![BUTTON (44)](https://github.com/user-attachments/assets/4edfa898-f5f3-450e-9501-d03492a10a46)
-![BUTTON (42)](https://github.com/user-attachments/assets/ed7a483d-3a29-48cd-8b51-f642164db1dd)
-![BUTTON (38)](https://github.com/user-attachments/assets/4089e6d3-70c3-4bd5-ac57-d8e9aff67cd9)
-![BUTTON (36)](https://github.com/user-attachments/assets/163148a6-3ef9-44ae-a423-cca93a0d67f2)
-![BUTTON (30)](https://github.com/user-attachments/assets/0ac052b9-6467-47c3-8fb3-5de805f9d2d1)
-![BUTTON (26)](https://github.com/user-attachments/assets/070afea4-df2b-4afd-b88e-9ad769aef5a8)
-![A20](https://github.com/user-attachments/assets/46b6412c-a3c2-40cd-97d6-b86cf28877cf)
-![A19](https://github.com/user-attachments/assets/7573b85a-219d-4dfd-916b-cb1d18afe264)
-![A18](https://github.com/user-attachments/assets/7d2532ed-0977-4130-b867-ca3662aff225)
-![A17](https://github.com/user-attachments/assets/8fa7bf95-9d5b-492d-91bf-51668fd9ee59)
-![A16](https://github.com/user-attachments/assets/79b34016-1cb6-4642-9ac0-be8643812d2e)
-![A15](https://github.com/user-attachments/assets/e23b8e1a-a555-476b-a314-999ee9e0a45d)
-![A14](https://github.com/user-attachments/assets/8f2b9555-6bed-4c0e-ae19-4e5adad3f16e)
-![A13](https://github.com/user-attachments/assets/3000f662-80bf-435e-beab-01cc7d8cb1f4)
-![A12](https://github.com/user-attachments/assets/48525ae0-801e-473e-98ab-f6ff284b76cd)
-![A11](https://github.com/user-attachments/assets/23ee96a2-94ec-41da-a79e-fad4d826b8b4)
-![A10](https://github.com/user-attachments/assets/c989ad6a-6679-43a1-8f50-94d1ad9b232c)
-![A9](https://github.com/user-attachments/assets/e157ebd0-c440-4329-a3f0-fc9d1c377aa7)
-![A8](https://github.com/user-attachments/assets/6bec49c8-fbd5-4f85-a6c7-86923181a1ce)
-![A7](https://github.com/user-attachments/assets/53667ac9-195b-4edc-a07c-78035b2f9c38)
-![A1](https://github.com/user-attachments/assets/3a3f03ea-633c-46fd-84fc-9622d7edf9fd)
+![button (45)](https://github.com/user-attachments/assets/0fee5d91-5f2d-49db-9d81-952a21895246)
+![button (44)](https://github.com/user-attachments/assets/4edfa898-f5f3-450e-9501-d03492a10a46)
+![button (42)](https://github.com/user-attachments/assets/ed7a483d-3a29-48cd-8b51-f642164db1dd)
+![button (38)](https://github.com/user-attachments/assets/4089e6d3-70c3-4bd5-ac57-d8e9aff67cd9)
+![button (36)](https://github.com/user-attachments/assets/163148a6-3ef9-44ae-a423-cca93a0d67f2)
+![button (30)](https://github.com/user-attachments/assets/0ac052b9-6467-47c3-8fb3-5de805f9d2d1)
+![button (26)](https://github.com/user-attachments/assets/070afea4-df2b-4afd-b88e-9ad769aef5a8)
+![a20](https://github.com/user-attachments/assets/46b6412c-a3c2-40cd-97d6-b86cf28877cf)
+![a19](https://github.com/user-attachments/assets/7573b85a-219d-4dfd-916b-cb1d18afe264)
+![a18](https://github.com/user-attachments/assets/7d2532ed-0977-4130-b867-ca3662aff225)
+![a17](https://github.com/user-attachments/assets/8fa7bf95-9d5b-492d-91bf-51668fd9ee59)
+![a16](https://github.com/user-attachments/assets/79b34016-1cb6-4642-9ac0-be8643812d2e)
+![a15](https://github.com/user-attachments/assets/e23b8e1a-a555-476b-a314-999ee9e0a45d)
+![a14](https://github.com/user-attachments/assets/8f2b9555-6bed-4c0e-ae19-4e5adad3f16e)
+![a13](https://github.com/user-attachments/assets/3000f662-80bf-435e-beab-01cc7d8cb1f4)
+![a12](https://github.com/user-attachments/assets/48525ae0-801e-473e-98ab-f6ff284b76cd)
+![a11](https://github.com/user-attachments/assets/23ee96a2-94ec-41da-a79e-fad4d826b8b4)
+![a10](https://github.com/user-attachments/assets/c989ad6a-6679-43a1-8f50-94d1ad9b232c)
+![a9](https://github.com/user-attachments/assets/e157ebd0-c440-4329-a3f0-fc9d1c377aa7)
+![a8](https://github.com/user-attachments/assets/6bec49c8-fbd5-4f85-a6c7-86923181a1ce)
+![a7](https://github.com/user-attachments/assets/53667ac9-195b-4edc-a07c-78035b2f9c38)
+![a1](https://github.com/user-attachments/assets/3a3f03ea-633c-46fd-84fc-9622d7edf9fd)
 
